@@ -1,7 +1,7 @@
 <div class="font-normal text-base text-gray-400 w-full px-4">
 <p class="font-semibold text-gray-200 text-xl">Definitions</p>
 <p class="ml-4">
-1. Moosic: The Music Discord bot and all it's versions 
+1. Mercury: The Music Discord bot and all it's versions 
 </p>
 <p class="font-semibold text-gray-200 text-xl mt-4">
 What data do we collect?
